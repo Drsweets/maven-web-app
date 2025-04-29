@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://172.31.86.108:8081/repository/uba-release/</url>
+	      <url>http://52.204.243.8:8081/repository/sweet1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://172.31.86.108:8081/repository/uba-snapshot/</url>
+	      <url>http://52.204.243.8:8081/repository/sweet2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
